@@ -1,5 +1,5 @@
 <templateSet group="HTML/XML">
-  <template name="!jq" value="&lt;script src=&quot;js/jquery-1.12.4.js&quot;&gt;&lt;/script&gt;&#10;&lt;script&gt;&#10;    $(function () {&#10;        $SELECTION$&#10;    });&#10;&lt;/script&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="!jq" value="&lt;script src=&quot;js/jquery-1.12.4.js&quot;&gt;&lt;/script&gt;&#10;&lt;script&gt;&#10;    $(function () {&#10;        $SELECTION$&#10;    });&#10;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
