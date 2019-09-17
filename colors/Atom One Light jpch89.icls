@@ -4,13 +4,13 @@
     <property name="created">2019-09-14T11:23:54</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-09-14T20:36:10</property>
+    <property name="modified">2019-09-17T14:51:15</property>
     <property name="originalScheme">_@user_Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
